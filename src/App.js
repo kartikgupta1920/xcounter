@@ -19,7 +19,7 @@ function App() {
       <h1>Counter App</h1>
       <div>Count: {count}</div>
       <button onClick={handleIncrement}>Increment</button>
-      <button onClick={handleDecrement}>Dncrement</button>
+      <button onClick={handleDecrement}>Decrement</button>
     </div>
   );
 }
